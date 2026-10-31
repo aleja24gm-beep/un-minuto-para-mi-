@@ -1,0 +1,6 @@
+{
+  "name": "Un minuto para mí - Pausas Activas Hospitalarias",
+  "description": "Aplicación interactiva de descanso visual, relajación y pausas activas ergonómicas diseñada específicamente para el personal y trabajadores del hospital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
